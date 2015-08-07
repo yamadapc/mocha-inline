@@ -1,0 +1,28 @@
+{
+  "name": "mocha-inline",
+  "version": "0.0.2",
+  "description": "Small helper to write mocha tests inlined.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha example.js",
+    "run-example": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yamadapc/mocha-inline.git"
+  },
+  "keywords": [
+    "mocha",
+    "testing",
+    "inlined",
+    "inline",
+    "describe",
+    "BDD",
+    "erlang"
+  ],
+  "author": "Pedro Tacla Yamada",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
