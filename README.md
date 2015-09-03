@@ -30,7 +30,7 @@ describe('add(x, y)', function() {
 
 **This is not implemented yet**
 
-There's something important this little package should provides An utility for
+There's something important this little package should provide: an utility for
 removing those test blocks from your code. This is for browser people, who don't
 want test blocks to be shipped to clients.
 
